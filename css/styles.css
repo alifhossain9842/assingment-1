@@ -79,3 +79,86 @@
 }
 
 
+/* card styles */
+
+.card-content{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin: 50px 100px;
+   padding: 10px 50px;
+   gap: 20px;
+   
+}
+
+
+.text{
+    font-size: 42px;
+    font-weight: 700;
+    font-family: "Raleway", sans-serif;
+    color:#252432;
+     margin-bottom: 20px;
+    
+}
+
+.text-p{
+    font-size: 24px;
+    font-weight: 400;
+    color: rgba(37, 36, 50, 0.51);
+    font-family: "Raleway", sans-serif;
+    margin-bottom: 60px;
+
+    
+}
+.img{
+
+  overflow: hidden;
+  border-radius: 20px;
+  
+}
+
+
+
+/* product users */
+#user-card{
+    background-color: rgba(78, 71, 255, 0.1);
+    margin: 30px 80px;
+    padding: 30px 10px;
+    border-radius: 30px;
+    
+}
+
+.user-text{
+    font-size: 34px;
+    font-weight: 700;
+    font-family: "Raleway", sans-serif;
+    color:#252432;
+    text-align: center;
+padding-bottom: 50px;
+}
+
+.use-child{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+   
+
+}
+
+.child-text{
+    font-size: 80px;
+    font-weight: 700px;
+    color: rgba(78, 71, 255, 1);
+     font-family: "Raleway", sans-serif;
+     text-align: center;
+    
+}
+
+.child-p{
+    font-size: 20px;
+    font-weight: 400px;
+    color: rgba(0, 0, 0, 0.5);
+     font-family: "Raleway", sans-serif;
+     text-align: center;
+    
+}
