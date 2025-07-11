@@ -233,3 +233,31 @@ padding-bottom: 50px;
     margin-bottom: 20px;
 }
 
+#ready{
+    margin: 100px 100px;
+    padding: 70px;
+    text-align: center;
+    background-color:whitesmoke;
+    border-radius: 20px;
+    
+}
+.ready-h1{
+     font-size: 50px;
+    font-weight: 700;
+    color: rgba(0, 0, 0, 1);
+     font-family: "Raleway", sans-serif;
+     margin-bottom:10px;
+}
+.ready-p{
+      font-size: 15px;
+    font-weight: 400;
+    color:rgba(0, 0, 0, 0.5);
+    font-family: "Raleway", sans-serif;
+    margin-bottom:20px;
+    
+}
+
+.ready-img{
+    border-radius: 20px;
+    margin-top: 20px;
+}
