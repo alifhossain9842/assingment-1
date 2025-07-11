@@ -384,3 +384,8 @@
 .field > textarea{
     resize: none;
 }
+
+
+.field > input{
+    padding: 15px 30px;
+}
